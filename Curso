@@ -1,0 +1,21 @@
+public class Curso {
+   private String nome;
+    private Professor professor;
+
+
+    public Curso(String nome){
+        this.nome = nome;
+        this.professor = null;
+    }
+    public boolean addCurso(Curso curso){
+        if(curso.getprofessor() = null){
+            return false;
+        } 
+        
+      cursos.add(curso);
+        curso.setProfessor(this);
+
+    return true;
+
+    }
+}
