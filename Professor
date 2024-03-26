@@ -1,0 +1,21 @@
+import java.util.*;
+
+public class Professor {
+    
+    private String nome;
+    private Arraylist<Curso> cursos;
+
+    public Professor(String nome, Arraylist<Curso> cursos){
+        this.nome = nome;
+        this.cursos = new Arraylist<>();
+
+}
+public Professor getProfessor(){
+    return this.professor;
+}
+
+public void setProfessor(Professor professor){
+    this.professor = professor;
+}
+    
+}
