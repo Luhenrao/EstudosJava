@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args){
+
+Professor p1 = new Professor("Iago")
+Professor p2 = new Professor("Daniel")
+
+Curso c1 = new Curso()
+    }
+
+    
+    
+}
